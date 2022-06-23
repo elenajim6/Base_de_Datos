@@ -4,3 +4,4 @@ ESTOS SON LOS DATOS PARA LA BASE DEL EJERCICIO
 https://docs.google.com/spreadsheets/d/1kutap_Mkh02oy2JylKdHdyxDIpwKRJgHxaGNevYmBkU/edit?usp=sharing
 
 https://www.db-fiddle.com/f/naFNco3divoUyFTjqJrx2y/0
+https://www.db-fiddle.com/f/naFNco3divoUyFTjqJrx2y/1
