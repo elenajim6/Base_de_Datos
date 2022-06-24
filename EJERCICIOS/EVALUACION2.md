@@ -63,6 +63,7 @@ Ejercicio: Creación de la base de datos (valor 18 puntos)
 Tienda de informática
 
 ![image](https://user-images.githubusercontent.com/91554777/170415101-717bca19-3644-46a9-8a57-8d5940c5d283.png)
+![image](https://user-images.githubusercontent.com/101816484/175647168-e947b786-e7ad-41e6-856b-758ff2243a65.png)
 
 
 
