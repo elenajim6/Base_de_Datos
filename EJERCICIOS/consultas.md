@@ -13,3 +13,5 @@ En la BD utilizada en clase realiza las siguientes consultas:
 
 https://www.db-fiddle.com/f/iAUjGLoFoHtam2pK68Xh1B/1
 
+
+https://www.db-fiddle.com/f/nUxtnJrmNuPC4SmSsQsPYp/1
