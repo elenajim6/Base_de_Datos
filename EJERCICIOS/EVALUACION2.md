@@ -69,8 +69,7 @@ Tienda de informática
 
 Modelo entidad/relación
 
-![image](https://user-images.githubusercontent.com/101816484/175647168-e947b786-e7ad-41e6-856b-758ff2243a65.png)
-
+![image](https://user-images.githubusercontent.com/101816484/177225903-fe12e0c8-7e30-407b-a4c5-46ff3ed8e54a.png)
 
 
 Base de datos para MySQL
