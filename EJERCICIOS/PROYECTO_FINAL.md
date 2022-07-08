@@ -2,6 +2,7 @@
 ### Indicaciones de lo que se debe realizar
 
 ● Diseña el modelo entidad-relación del siguiente problema.
+![image](https://user-images.githubusercontent.com/101816484/178047662-e981bd9c-c5ec-4648-95e6-a35b0d3f6c3a.png)
 
 ● Crea el script para la base de datos.
 Proveedores
