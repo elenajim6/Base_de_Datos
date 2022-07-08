@@ -2,9 +2,7 @@
 ### Indicaciones de lo que se debe realizar
 
 ● Diseña el modelo entidad-relación del siguiente problema.
-![image](https://user-images.githubusercontent.com/101816484/178047662-e981bd9c-c5ec-4648-95e6-a35b0d3f6c3a.png)
-
-● Crea el script para la base de datos.
+![image](https://user-images.githubusercontent.com/101816484/178052419-bdb958c5-b1f5-4d2a-9038-62b87e9efebf.png)● Crea el script para la base de datos.
 Proveedores
 
 Tenemos que diseñar una base de datos sobre proveedores y disponemos de
@@ -30,3 +28,4 @@ precio y categoría.
 un código de categoría único.
 
 ● Una pieza sólo puede pertenecer a una categoría.
+https://www.db-fiddle.com/f/uUz9jTJw2GLre7DcRJ9jzQ/1
