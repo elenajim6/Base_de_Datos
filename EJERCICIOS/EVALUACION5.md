@@ -28,6 +28,12 @@ JOIN).
 
 2. Devuelve todos los datos de los productos que tienen el mismo precio que el
 producto más caro del fabricante Lenovo. (Sin utilizar INNER JOIN).
+![image](https://user-images.githubusercontent.com/101816484/178093483-db7db161-f7f0-4ca2-9c17-7144d696619b.png)
 
 
 3. Lista el nombre del producto más caro del fabricante Lenovo.
+![image](https://user-images.githubusercontent.com/101816484/178093133-1278e667-cf81-4fc9-9a40-df7ce5cbb7e8.png)
+
+
+
+https://www.db-fiddle.com/f/viu7MYjkY3XXaoqVmc3pzQ/6
